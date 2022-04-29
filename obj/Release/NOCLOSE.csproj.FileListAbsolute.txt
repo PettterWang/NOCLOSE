@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\NOCLOSE\bin\Release\NOCLOSE.exe.config
+C:\Users\Administrator\Desktop\NOCLOSE\bin\Release\NOCLOSE.exe
+C:\Users\Administrator\Desktop\NOCLOSE\bin\Release\NOCLOSE.pdb
+C:\Users\Administrator\Desktop\NOCLOSE\obj\Release\NOCLOSE.Form1.resources
+C:\Users\Administrator\Desktop\NOCLOSE\obj\Release\NOCLOSE.NOCLOSE.resources
+C:\Users\Administrator\Desktop\NOCLOSE\obj\Release\NOCLOSE.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NOCLOSE\obj\Release\NOCLOSE.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NOCLOSE\obj\Release\NOCLOSE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NOCLOSE\obj\Release\NOCLOSE.exe
+C:\Users\Administrator\Desktop\NOCLOSE\obj\Release\NOCLOSE.pdb
